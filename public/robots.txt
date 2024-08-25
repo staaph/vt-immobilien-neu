@@ -1,0 +1,11 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Disallow: /legal/
+Allow: /
+
+User-agent: AhrefsBot
+Crawl-Delay: 10
+
+Sitemap: https://www.vt-immobilien.com/sitemap.xml
